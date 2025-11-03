@@ -10,8 +10,6 @@ tags: ["networks", "golang", "distibuted systems"]
 showTags: false
 ---
 
-# What is Golang? Where and Why is it used?
-
 Go (or **Golang**) is an Open Source programming language developed by Google. Go has many use cases like building **Microservices**, **Cloud Computing**, **Web Applications**, and creating **CLI Tools**.
 
 Go is a **statically typed language**, and its structures and syntax resemble the **C Programming Language**. Due to Go’s **fast startup time**, **low runtime overhead**, and **platform independence**, it has become a very popular language for writing microservices and other systems. Go is also known for its **concurrency**, meaning it can execute multiple processes simultaneously.
