@@ -3,8 +3,6 @@ title = "Projects"
 draft = false
 +++
 
-# Amiitesh's Projects
-
 ---
 
 ### [Gort Scanner](https://github.com/EmbeddingBits/GortScanner)

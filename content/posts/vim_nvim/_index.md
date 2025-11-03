@@ -9,8 +9,6 @@ tags: ["nvim", "neovim", "vim", "text editor"]
 showTags: false
 ---
 
-# Vim vs Neovim: Which One Should You Choose?
-
 ## Introduction
 
 Welcome to this blog, where I'll be plotting the differences between **Vim** and **Neovim**. I'll also be discussing which editor to use between the two for a better workflow and a better code editing experience.
